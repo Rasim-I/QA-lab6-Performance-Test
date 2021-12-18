@@ -1,0 +1,10 @@
+{
+  "simulation": "ChuckCategory",
+  "simulationId": "chuckcategory",
+  "start": 1639870994312,
+  "description": "ChuckCategory(1000)",
+  "scenarios": ["ChuckCategory"],
+  "assertions": [
+
+  ]
+}

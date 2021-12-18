@@ -1,0 +1,10 @@
+{
+  "simulation": "ChuckQuery",
+  "simulationId": "chuckquery",
+  "start": 1639870731631,
+  "description": "ChuckQuery(1000)",
+  "scenarios": ["ChuckQuery"],
+  "assertions": [
+
+  ]
+}

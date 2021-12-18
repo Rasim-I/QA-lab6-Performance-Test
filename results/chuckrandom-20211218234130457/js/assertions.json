@@ -1,0 +1,10 @@
+{
+  "simulation": "chuckRandom",
+  "simulationId": "chuckrandom",
+  "start": 1639870890457,
+  "description": "ChuckRandom(1000)",
+  "scenarios": ["chuck"],
+  "assertions": [
+
+  ]
+}
